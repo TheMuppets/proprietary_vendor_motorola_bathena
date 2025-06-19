@@ -244,6 +244,7 @@ PRODUCT_PACKAGES += \
     libtfestriping \
     libvidhance \
     vendor.goodix.hardware.biometrics.fingerprint@3.0 \
+    capsense_reset \
     cnss-daemon \
     android.hardware.biometrics.fingerprint@2.1-goodixservice \
     android.hardware.biometrics.fingerprint@2.1-service-fpc \
