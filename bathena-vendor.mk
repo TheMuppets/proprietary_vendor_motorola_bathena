@@ -205,6 +205,7 @@ PRODUCT_PACKAGES += \
     camera.qcom \
     com.qti.chi.override \
     fingerprint.goodix.default \
+    libaidenoiser \
     libbitmlengine \
     libcamera_nn_stub \
     libcamerapostproc \
